@@ -1,0 +1,15 @@
+
+
+
+OS: Windows 8.1
+IDE : Eclipse Mars 2.0
+Documentation File : doc
+XML File : javadoc.xml
+Class Diagram : cdq<quest_no>.jpg
+
+1. Save your input files in folder q<quest_no>
+2. Save your javafile on Desktop.
+3. Navigate to correct folder.
+4. Compile the program typing javac filename.java
+
+
