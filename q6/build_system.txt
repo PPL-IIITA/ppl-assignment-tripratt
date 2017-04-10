@@ -1,0 +1,4 @@
+1. Save your input files in folder q<quest_no>
+2. Save your javafile on Desktop.
+3. Navigate to correct folder.
+4. Compile the program typing javac filename.java
