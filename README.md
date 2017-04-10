@@ -12,6 +12,9 @@ find the path for executable.jar located in : pplAssignment/jar/executable.jar
 Then By using CommandLine: type the command: " java -jar "executable.jar"    "  
 
 
+Java Files:
+q1 & q2 in : ppl-assignment-tripratt/pplAssignment/src/pplAssignment/
+
 The input taken :  
 girl.csv , boy.csv , gift.csv  
 The output generated for:  
